@@ -22,5 +22,7 @@ In architecture , i have used pooling so that  the feature map would get reduced
 This is my  cat_dog_classifier project 
 
 
+this is feature maps of first convolution layer :
+
 
 
