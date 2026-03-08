@@ -23,6 +23,6 @@ This is my  cat_dog_classifier project
 
 
 this is feature maps of first convolution layer :
-
+link - https://github.com/as1626987/cat_dog_classifier_project/blob/main/feature_maps.png
 
 
